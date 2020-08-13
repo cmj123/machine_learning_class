@@ -7,4 +7,4 @@ import matplotlib.cm as cm
 
 # Load digits
 digits = load_digits()
-print(digits)
+print(digit)
